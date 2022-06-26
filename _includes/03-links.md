@@ -1,1 +1,1 @@
-[GitHub Profile] (https://github.com/cbone2)
+[GitHub Profile](https://github.com/cbone2)
